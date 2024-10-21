@@ -1,2 +1,2 @@
 # C-Programmin- Problems
- C Programming Problems from basic to advance topic wise
+ This repository contains topic-wise C programming solutions, designed to help beginners and intermediate learners improve their coding skills. Each folder is categorized by core topics like Arrays, Strings, Functions, and Pointers, with multiple programs solving common problems. Solutions are provided in a step-by-step manner, from basic concepts to more complex applications. Contributions and suggestions are welcome to enhance this collection further.
