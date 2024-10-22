@@ -5,7 +5,7 @@ void main(){
      int num=58;
      //logic to find next multiple 
     if(num>9){
-   int result=num+(10-num%10);
+   int result=(num/10+1)*10;
   // print result
     printf("%d",result);
     }
